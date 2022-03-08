@@ -12,4 +12,4 @@ Nous acceptons les virements.
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Bénédicte Coulon](https://github.com/BenedicteCn) [Aurélien Ingwen](https://github.com/Aurelien1997) [Niall Burdon](https://github.com/Nburd01) [Pierre Legoux](https://github.com/PierreLGX)
