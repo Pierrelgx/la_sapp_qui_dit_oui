@@ -7,9 +7,9 @@ Le début du projet commence iciiiii
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-Nous acceptons les virements.
+$ run to PaysDesReves ⭐️
 ```
 
 
-## License
-[Bénédicte Coulon](https://github.com/BenedicteCn) [Aurélien Ingwen](https://github.com/Aurelien1997) [Niall Burdon](https://github.com/Nburd01) [Pierre Legoux](https://github.com/PierreLGX)
+## 🍄 Contributeurs
+[Bénédicte Coulon](https://github.com/BenedicteCn) | [Aurélien Ingwen](https://github.com/Aurelien1997) | [Niall Burdon](https://github.com/Nburd01) |  [Pierre Legoux](https://github.com/PierreLGX)
